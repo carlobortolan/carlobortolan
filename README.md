@@ -1,7 +1,3 @@
-### Hi there 👋
-![carlobortolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlobortolan&count_private=true&hide=contribs&show_icons=true&theme=THEME_NAME)
-
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=carlobortolan&count_private=true&show_icons=true&theme=algolia&hide=contribs"
@@ -13,3 +9,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=carlobortolan&count_private=true&show_icons=true&hide=contribs" />
 </picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlobortolan&langs_count=16)](https://github.com/carlobortolan/readme)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlobortolan&repo=haruchat)](https://github.com/carlobortolan/haruchat)
