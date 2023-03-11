@@ -1,4 +1,4 @@
-[![Github](https://img.shields.io/github/followers/carlobortolan?label=Follow&style=social)](https://github.com/carlobortolan)
+<!-- [![Github](https://img.shields.io/github/followers/carlobortolan?label=Follow&style=social)](https://github.com/carlobortolan) -->
 
 <!-- Light Mode -->
 <div align="center"> 
