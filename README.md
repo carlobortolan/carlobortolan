@@ -1,4 +1,4 @@
-### Hey 👋, I'm Carlo
+<!--### Hey 👋, I'm Carlo-->
 
 [![Github](https://img.shields.io/github/followers/carlobortolan?label=Follow&style=social)](https://github.com/carlobortolan)
 
