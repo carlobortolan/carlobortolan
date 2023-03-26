@@ -21,5 +21,4 @@
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=carlobortolan&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner&count_private=true,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Carlo Bortolan's Github stats" />
 </a>
 </div>
-
 <br/>
