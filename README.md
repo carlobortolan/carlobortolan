@@ -10,11 +10,10 @@
 
 <!-- Dark Mode -->
 <div align="center"> 
-<a href="https://github-readme-streak-stats.herokuapp.com/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlobortolan&layout=compact&langs_count=8&exclude_repo=[carlobortolan,Embloy,railstest1-depr-]&hide_border=true&role=owner&count_private=true,collaborator&theme=dark&card_width=300&bg_color=000000#gh-dark-mode-only" alt="Carlo Bortolan's Language stats" />
-</a>
+
 <img height=200 src="https://github-readme-streak-stats.herokuapp.com?user=carlobortolan&theme=dark&hide_border=true&card_width=450&background=000000&mode=weekly" alt="Carlo Bortolan's Github stats" />
-</a>
+
 </div>
 <!-- Dark Mode 
 <div align="center">
