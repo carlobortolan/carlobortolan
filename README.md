@@ -16,7 +16,7 @@
 <img height=200 src="https://github-readme-streak-stats.herokuapp.com?user=carlobortolan&theme=dark&hide_border=true&card_width=450&background=000000&mode=weekly" alt="Carlo Bortolan's Github stats" />
 </a>
 </div>
-
+<!-- Dark Mode 
 <div align="center">
   <table>
     <tr>
@@ -28,5 +28,5 @@
     </tr>
   </table>
 </div>
-
+-->
 <br/>
