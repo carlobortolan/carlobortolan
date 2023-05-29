@@ -6,13 +6,13 @@
 </div>
 
 
-<!-- Light Mode -->
+<!-- Light Mode
 <div align="center"> 
   <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlobortolan&layout=compact&langs_count=8&hide_border=true&role=owner&count_private=true,collaborator&theme=light&bg_color=ffffff#gh-light-mode-only" alt="Carlo Bortolan's Language stats" alt="Carlo Bortolan's Language stats" />
 
   <img height=200 src="https://github-readme-streak-stats.herokuapp.com?user=carlobortolan&theme=light&hide_border=true&card_width=450&background=ffffff&mode=weekly" alt="Carlo Bortolan's Github stats" />
 </div>
-
+ -->
 
 
 
