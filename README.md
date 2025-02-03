@@ -1,6 +1,6 @@
 <!-- Dark Mode -->
-<div align="center"> 
-  <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlobortolan&layout=compact&langs_count=8&hide_border=true&role=owner&count_private=true,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Carlo Bortolan's Language stats" alt="Carlo Bortolan's Language stats" />
+<div align="center">   
+  <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlobortolan&layout=compact&langs_count=8&hide_border=true&role=owner,collaborator&count_private=true,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Carlo Bortolan's Language stats" alt="Carlo Bortolan's Language stats" />
 
   <img height=200 src="https://github-readme-streak-stats.herokuapp.com?user=carlobortolan&theme=dark&hide_border=true&card_width=450&background=000000&mode=weekly" alt="Carlo Bortolan's Github stats" />
 </div>
